@@ -1,5 +1,5 @@
 # New Tags Learned
-I learnt about the <div> tag which is used for grouping content
+I learnt about the <div></div> tag which is used for grouping content
 I also learnt anout the <a> tag together with the target="_blank" which opens a link in a new tab
 The * is used in CSS to apply style to all elements in the HTML.
 The "box-shadow" css property creates a shadow effect.
