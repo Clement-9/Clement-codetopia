@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(6, 6, 82);
+  height: 100vh;
+}
+
+.card {
+  border-radius: 10px;
+  background-color: #fff;
+  width: 360px;
+  height: 700px;
+  border: none;
+  padding: 15px;
+  box-shadow: 7px 7px 5px;
+}
+
+.card-image {
+  margin-bottom: 40px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.city-tag {
+  font-size: 10px;
+  background-color: rgb(6, 6, 82);
+  padding: 8px;
+  border-radius: 10px;
+  width: fit-content;
+  margin-bottom: 5px;
+  color: white;
+}
+
+.city-description {
+  color: #8c8c8c;
+}
+
+.Learn-more {
+  color: rgb(6, 6, 82);
+  text-decoration: none;
+}
+
+.writer {
+  margin-bottom: 10px;
+}
